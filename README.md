@@ -2,10 +2,8 @@
 
 <br />
 <p align="center">
-Final Capstone Project
+Rental Cars App
 </p>
-
-  <h1 align="center"><strong>"RENT A CAR"</strong></h1>
 
   <p align="center">
     This is the final capstone project for the Full Stack Developer Program at Microverse
@@ -19,6 +17,8 @@ Final Capstone Project
     <a href="https://github.com/nimplay/final-capstone-project/issues">Request Feature</a>
   </p>
 </p>
+
+To visit the live site, please Click [here.](https://rental-cars-williamscch.netlify.app/)
 
 ## Table of Contents:
 
@@ -97,11 +97,6 @@ D) In the navbar I can see a button to show the list of all uploaded properties 
 
 E) In the navbar I can see a button to show the list of all the reservations created by the logged-in user, with the name of the property, reservation Id, and a button to delete it.
 
-## Entity Relation Diagram:
-
-<img src="" alt="Logo" width="800" height="500">
-  </a>
-
 ## Built With:
 
 This project was built using these technologies:
@@ -125,9 +120,7 @@ This project was built using these technologies:
 - GitHub, Gitflow
 - Visual Studio
 
-To visit the live API site, please Click [here.](https://639355566c9e9858f93bb1bb--bejewelled-cucurucho-3790b4.netlify.app/)
-
-## squema
+## Squema
 
 <img src="squema.jpeg">
 
